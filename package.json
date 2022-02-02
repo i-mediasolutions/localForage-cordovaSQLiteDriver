@@ -2,7 +2,7 @@
   "name": "localforage-cordovasqlitedriver",
   "version": "1.8.0",
   "description": "SQLite driver for Cordova apps using localForage.",
-  "homepage": "https://github.com/thgreasi/localForage-cordovaSQLiteDriver",
+  "homepage": "https://github.com/i-mediasolutions/localForage-cordovaSQLiteDriver",
   "main": "dist/localforage-cordovasqlitedriver.js",
   "jsnext:main": "dist/localforage-cordovasqlitedriver.es6.js",
   "typings": "typings/localforage-cordovasqlitedriver.d.ts",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thgreasi/localForage-cordovaSQLiteDriver.git"
+    "url": "git://github.com/i-mediasolutions/localForage-cordovaSQLiteDriver.git"
   },
   "keywords": [
     "localforage",
@@ -27,7 +27,7 @@
   "author": "Thodoris Greasidis",
   "licence": "Apache-2.0",
   "bugs": {
-    "url": "http://github.com/thgreasi/localForage-cordovaSQLiteDriver/issues"
+    "url": "http://github.com/i-mediasolutions/localForage-cordovaSQLiteDriver/issues"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
